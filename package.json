@@ -1,6 +1,6 @@
 {
   "name": "hiccup-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "minimal templating engine using EDN",
   "author": "Dmitri Sotnokov",
   "homepage": "https://github.com/yogthos/hiccup-template",
