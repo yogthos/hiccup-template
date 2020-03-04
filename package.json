@@ -1,6 +1,6 @@
 {
   "name": "hiccup-template",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "minimal templating engine using EDN",
   "author": "Dmitri Sotnokov",
   "homepage": "https://github.com/yogthos/hiccup-template",
@@ -13,7 +13,7 @@
   ],
   "keywords": [
     "cljs",
-    "edn",
+    "EDN",
     "hiccup",
     "template"
   ]
