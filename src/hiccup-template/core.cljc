@@ -90,15 +90,3 @@
 
 (defn html [template data]
   (render-hiccup (hiccup template data)))
-
-(def data
-  {:person
-   {:first-name "John"
-    :last-name "Doe"}})
-
-(def template
-  [:div
-   [:label "first name " :data/person.first-name]
-   [:label "last name " :data/person.last-name]])
-
-(println (html template data))
