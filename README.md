@@ -2,6 +2,8 @@
 
 A minimal Clojure/Script library for Hiccup style templating.
 
+[![NPM](https://nodei.co/npm/hiccup-template.png?mini=true)](https://www.npmjs.com/package/hiccup-template)
+
 ### usage
 
 ```clojure
