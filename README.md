@@ -4,6 +4,8 @@ A minimal Clojure/Script library for Hiccup style templating.
 
 [![NPM](https://nodei.co/npm/hiccup-template.png?mini=true)](https://www.npmjs.com/package/hiccup-template)
 
+[![Clojars Project](https://img.shields.io/clojars/v/net.clojars.yogthos/hiccup-template.svg)](https://clojars.org/net.clojars.yogthos/hiccup-template)
+
 ### usage
 
 ```clojure
